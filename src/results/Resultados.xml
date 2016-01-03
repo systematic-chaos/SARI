@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE Resultado SYSTEM "Resultados.dtd">
+<?xml-stylesheet type = "text/xsl" href = "Resultados.xsl"?>
+<Resultado>
+  <Pregunta>
+    <Item>
+      <Termino>la</Termino>
+      <Peso>1.0</Peso>
+    </Item>
+    <Item>
+      <Termino>mision</Termino>
+      <Peso>1.0</Peso>
+    </Item>
+    <Item>
+      <Termino>de</Termino>
+      <Peso>1.0</Peso>
+    </Item>
+    <Item>
+      <Termino>mh</Termino>
+      <Peso>1.0</Peso>
+    </Item>
+  </Pregunta>
+  <Documento ID="17">
+    <Titulo>The Linux Mail User HOWTO</Titulo>
+    <Relevancia>3.87851096554</Relevancia>
+    <Texto>docs/Mail-User-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="110">
+    <Titulo>  The Linux Electronic Mail Administrator HOWTO</Titulo>
+    <Relevancia>1.5122452029</Relevancia>
+    <Texto>docs/Mail-Administrator-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="148">
+    <Titulo>  Qmail VMailMgr and Courier-Imap HOWTO</Titulo>
+    <Relevancia>1.05872733063</Relevancia>
+    <Texto>docs/Qmail-VMailMgr-Courier-imap-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="136">
+    <Titulo>  The Linux Networking Overview HOWTO</Titulo>
+    <Relevancia>0.884949191958</Relevancia>
+    <Texto>docs/Networking-Overview-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="65">
+    <Titulo>  Linux Information Sheet</Titulo>
+    <Relevancia>0.806568957936</Relevancia>
+    <Texto>docs/INFO-SHEET.txt</Texto>
+  </Documento>
+  <Documento ID="129">
+    <Titulo>  Linux-Esperanto-HOWTO</Titulo>
+    <Relevancia>0.730153221159</Relevancia>
+    <Texto>docs/Esperanto-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="57">
+    <Titulo>  Le Francophones-HOWTO : Linux &amp; la langue fran?aise</Titulo>
+    <Relevancia>0.582710613347</Relevancia>
+    <Texto>docs/Francophones-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="224">
+    <Titulo>  Spanish Linux HOWTO</Titulo>
+    <Relevancia>0.486912159513</Relevancia>
+    <Texto>docs/Spanish-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="116">
+    <Titulo>  Linux Italian-HOWTO</Titulo>
+    <Relevancia>0.310600998044</Relevancia>
+    <Texto>docs/Italian-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="102">
+    <Titulo>  Linux Laptop-HOWTO</Titulo>
+    <Relevancia>0.27839290155</Relevancia>
+    <Texto>docs/Laptop-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="72">
+    <Titulo>  Linux Portuguese-HOWTO</Titulo>
+    <Relevancia>0.107877062255</Relevancia>
+    <Texto>docs/Portuguese-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="1">
+    <Titulo>Don Quijote de la Mancha</Titulo>
+    <Relevancia>0.0352960114088</Relevancia>
+    <Texto>docs/dqdlm.txt</Texto>
+  </Documento>
+  <Documento ID="174">
+    <Titulo>  Mutt-i, GnuPG and PGP Howto</Titulo>
+    <Relevancia>0.0221062166947</Relevancia>
+    <Texto>docs/Mutt-GnuPG-PGP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="41">
+    <Titulo>Belgian HOWTO</Titulo>
+    <Relevancia>0.0200418214795</Relevancia>
+    <Texto>docs/Belgian-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="227">
+    <Titulo>  Linux PCI-HOWTO</Titulo>
+    <Relevancia>0.0171824116367</Relevancia>
+    <Texto>docs/PCI-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="86">
+    <Titulo>  Turkish-HOWTO</Titulo>
+    <Relevancia>0.0166992374743</Relevancia>
+    <Texto>docs/Turkish-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="99">
+    <Titulo>  German HOWTO</Titulo>
+    <Relevancia>0.0140850788851</Relevancia>
+    <Texto>docs/German-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="128">
+    <Titulo>  Linux Access HOWTO</Titulo>
+    <Relevancia>0.0133005603401</Relevancia>
+    <Texto>docs/Access-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="126">
+    <Titulo>Linux Hardware Compatibility HOWTO</Titulo>
+    <Relevancia>0.0120543537264</Relevancia>
+    <Texto>docs/Hardware-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="24">
+    <Titulo>  Ftape-HOWTO</Titulo>
+    <Relevancia>0.0111078961153</Relevancia>
+    <Texto>docs/Ftape-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="155">
+    <Titulo>  PLIP Install HOWTO</Titulo>
+    <Relevancia>0.00984788580749</Relevancia>
+    <Texto>docs/PLIP-Install-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="215">
+    <Titulo>  Burning a RedHat CD HOWTO</Titulo>
+    <Relevancia>0.00952954479055</Relevancia>
+    <Texto>docs/RedHat-CD-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="132">
+    <Titulo>The Linux CD-ROM HOWTO</Titulo>
+    <Relevancia>0.00859186524371</Relevancia>
+    <Texto>docs/CDROM-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="113">
+    <Titulo>Linux BRIDGE-STP-HOWTO</Titulo>
+    <Relevancia>0.00854561744674</Relevancia>
+    <Texto>docs/BRIDGE-STP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="40">
+    <Titulo>  The Unicode HOWTO</Titulo>
+    <Relevancia>0.00804112649768</Relevancia>
+    <Texto>docs/Unicode-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="31">
+    <Titulo>Cable Modem Providers HOWTO</Titulo>
+    <Relevancia>0.00776815284482</Relevancia>
+    <Texto>docs/Cable-Modem.txt</Texto>
+  </Documento>
+  <Documento ID="193">
+    <Titulo>  The Linux SCSI programming HOWTO</Titulo>
+    <Relevancia>0.00757484334605</Relevancia>
+    <Texto>docs/SCSI-Programming-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="168">
+    <Titulo>  Linux Ecology HOWTO</Titulo>
+    <Relevancia>0.00743283755298</Relevancia>
+    <Texto>docs/Ecology-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="185">
+    <Titulo>The Linux Reading List HOWTO</Titulo>
+    <Relevancia>0.00708603294391</Relevancia>
+    <Texto>docs/Reading-List-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="18">
+    <Titulo>  "Pocket" ISP based on RedHat Linux HOWTO</Titulo>
+    <Relevancia>0.00703242951609</Relevancia>
+    <Texto>docs/ISP-Setup-RedHat-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="123">
+    <Titulo>  Linux Shadow Password HOWTO</Titulo>
+    <Relevancia>0.00696000384446</Relevancia>
+    <Texto>docs/Shadow-Password-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="75">
+    <Titulo>  CD-Writing HOWTO</Titulo>
+    <Relevancia>0.00667888200916</Relevancia>
+    <Texto>docs/CD-Writing-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="189">
+    <Titulo>  From VMS to Linux HOWTO</Titulo>
+    <Relevancia>0.0065742175905</Relevancia>
+    <Texto>docs/VMS-to-Linux-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="21">
+    <Titulo>  Filesystems HOWTO</Titulo>
+    <Relevancia>0.00653226333746</Relevancia>
+    <Texto>docs/Filesystems-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="190">
+    <Titulo>  Configuration HOWTO</Titulo>
+    <Relevancia>0.00628298227238</Relevancia>
+    <Texto>docs/Config-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="22">
+    <Titulo>  Linux and Psion HOWTO</Titulo>
+    <Relevancia>0.00589774661498</Relevancia>
+    <Texto>docs/Psion-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="79">
+    <Titulo>The Linux NIS(YP)/NYS/NIS+ HOWTO</Titulo>
+    <Relevancia>0.00557748289663</Relevancia>
+    <Texto>docs/NIS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="159">
+    <Titulo>  Linux IPX-HOWTO</Titulo>
+    <Relevancia>0.00550373428878</Relevancia>
+    <Texto>docs/IPX-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="167">
+    <Titulo>  Diskless Nodes HOW-TO document for Linux</Titulo>
+    <Relevancia>0.0051609251853</Relevancia>
+    <Texto>docs/Diskless-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="87">
+    <Titulo>  The teTeX HOWTO: The Linux-teTeX Local Guide</Titulo>
+    <Relevancia>0.00511799330456</Relevancia>
+    <Texto>docs/TeTeX-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="20">
+    <Titulo>  Linux Commercial HOWTO</Titulo>
+    <Relevancia>0.00507195273662</Relevancia>
+    <Texto>docs/Commercial-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="230">
+    <Titulo>  The Linux Emacspeak HOWTO</Titulo>
+    <Relevancia>0.00463138508964</Relevancia>
+    <Texto>docs/Emacspeak-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="139">
+    <Titulo>Network Boot and Exotic Root HOWTO</Titulo>
+    <Relevancia>0.00461372713203</Relevancia>
+    <Texto>docs/Network-boot-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="5">
+    <Titulo>  GNU/Linux AI &amp; Alife HOWTO</Titulo>
+    <Relevancia>0.00443527172633</Relevancia>
+    <Texto>docs/AI-Alife-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="145">
+    <Titulo>  The Linux Thai HOWTO</Titulo>
+    <Relevancia>0.00436641456937</Relevancia>
+    <Texto>docs/Thai-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="195">
+    <Titulo>  HOWTO: Multi Disk System Tuning</Titulo>
+    <Relevancia>0.00409482852372</Relevancia>
+    <Texto>docs/Multi-Disk-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="33">
+    <Titulo>  C-C++ Beautifier HOW-TO</Titulo>
+    <Relevancia>0.00398908021365</Relevancia>
+    <Texto>docs/C-C++Beautifier-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="211">
+    <Titulo>  Database-SQL-RDBMS HOW-TO document for Linux (PostgreSQL</Titulo>
+    <Relevancia>0.00382902199083</Relevancia>
+    <Texto>docs/PostgreSQL-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="104">
+    <Titulo>  Wacom Tablet HOWTO</Titulo>
+    <Relevancia>0.00372652711694</Relevancia>
+    <Texto>docs/Wacom-Tablet-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="42">
+    <Titulo>  Java Decompiler HOW-TO</Titulo>
+    <Relevancia>0.00363426651855</Relevancia>
+    <Texto>docs/Java-Decompiler-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="219">
+    <Titulo>  Linux Ethernet-Howto</Titulo>
+    <Relevancia>0.00347141908626</Relevancia>
+    <Texto>docs/Ethernet-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="58">
+    <Titulo>  Framebuffer HOWTO</Titulo>
+    <Relevancia>0.00340317249284</Relevancia>
+    <Texto>docs/Framebuffer-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="205">
+    <Titulo>Secure Programming for Linux and Unix HOWTO</Titulo>
+    <Relevancia>0.00336200029083</Relevancia>
+    <Texto>docs/Secure-Programs-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="94">
+    <Titulo>English-language GNU/Linux distributions on CD-ROM</Titulo>
+    <Relevancia>0.00327069243871</Relevancia>
+    <Texto>docs/Distributions-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="54">
+    <Titulo>  The dosemu HOWTO</Titulo>
+    <Relevancia>0.00309674148882</Relevancia>
+    <Texto>docs/DOSEMU-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="154">
+    <Titulo>  Linux VAR HOWTO</Titulo>
+    <Relevancia>0.00303758347551</Relevancia>
+    <Texto>docs/VAR-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="90">
+    <Titulo>  The UPS Howto</Titulo>
+    <Relevancia>0.00299508199157</Relevancia>
+    <Texto>docs/UPS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="162">
+    <Titulo>  Linux Touch Screen HOWTO</Titulo>
+    <Relevancia>0.00282667376725</Relevancia>
+    <Texto>docs/XFree86-Touch-Screen-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="152">
+    <Titulo>  Multicast over TCP/IP HOWTO</Titulo>
+    <Relevancia>0.00275772071165</Relevancia>
+    <Texto>docs/Multicast-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="108">
+    <Titulo>  VCR-HOWTO - Using your GNU/Linux computer as a VCR</Titulo>
+    <Relevancia>0.00273202255081</Relevancia>
+    <Texto>docs/VCR-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="119">
+    <Titulo>[http://www.linuxports.com/] Linux Networking HOWTO</Titulo>
+    <Relevancia>0.00272665938851</Relevancia>
+    <Texto>docs/Net-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="206">
+    <Titulo>  Linux Parallel Processing HOWTO</Titulo>
+    <Relevancia>0.00271666286053</Relevancia>
+    <Texto>docs/Parallel-Processing-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="140">
+    <Titulo>  Serbian HOWTO</Titulo>
+    <Relevancia>0.00267258277074</Relevancia>
+    <Texto>docs/Serbian-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="44">
+    <Titulo>HP HOWTO</Titulo>
+    <Relevancia>0.00265257548734</Relevancia>
+    <Texto>docs/HP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="6">
+    <Titulo>  Linux Medicine-HOWTO</Titulo>
+    <Relevancia>0.00263638165508</Relevancia>
+    <Texto>docs/Medicine-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="93">
+    <Titulo>  Software-RAID HOWTO</Titulo>
+    <Relevancia>0.0026263200709</Relevancia>
+    <Texto>docs/Software-RAID-0.txt</Texto>
+  </Documento>
+  <Documento ID="133">
+    <Titulo>  Linux/MIPS HOWTO</Titulo>
+    <Relevancia>0.00260739121688</Relevancia>
+    <Texto>docs/MIPS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="107">
+    <Titulo>  C++ Programming HOW-TO</Titulo>
+    <Relevancia>0.0025367872674</Relevancia>
+    <Texto>docs/C++Programming-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="188">
+    <Titulo>  The Linux Sound Playing HOWTO</Titulo>
+    <Relevancia>0.00250332792941</Relevancia>
+    <Texto>docs/Sound-Playing-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="213">
+    <Titulo>Linux Infrared HOWTO</Titulo>
+    <Relevancia>0.00245864211675</Relevancia>
+    <Texto>docs/Infrared-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="173">
+    <Titulo>The Linux Sound HOWTO</Titulo>
+    <Relevancia>0.00240584514115</Relevancia>
+    <Texto>docs/Sound-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="103">
+    <Titulo>  Root over nfs clients &amp; server Howto.</Titulo>
+    <Relevancia>0.0023656198218</Relevancia>
+    <Texto>docs/Diskless-root-NFS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="236">
+    <Titulo>Linux Assembly HOWTO</Titulo>
+    <Relevancia>0.002310631473</Relevancia>
+    <Texto>docs/Assembly-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="39">
+    <Titulo>Speech Recognition HOWTO</Titulo>
+    <Relevancia>0.00230473903717</Relevancia>
+    <Texto>docs/Speech-Recognition-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="36">
+    <Titulo>  SMB HOWTO</Titulo>
+    <Relevancia>0.00213045002715</Relevancia>
+    <Texto>docs/SMB-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="142">
+    <Titulo>Linux Amateur Radio AX.25 HOWTO</Titulo>
+    <Relevancia>0.00206331996993</Relevancia>
+    <Texto>docs/AX25-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="181">
+    <Titulo>  Wearable-HOWTO.</Titulo>
+    <Relevancia>0.00205608384979</Relevancia>
+    <Texto>docs/Wearable-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="220">
+    <Titulo>  Linux - Optical Disk HOWTO</Titulo>
+    <Relevancia>0.00201431890087</Relevancia>
+    <Texto>docs/Optical-Disk-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="117">
+    <Titulo>Linux Loadable Kernel Module HOWTO</Titulo>
+    <Relevancia>0.00201178809779</Relevancia>
+    <Texto>docs/Module-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="109">
+    <Titulo>  CVS-RCS- HOW-TO Document for Linux (Source Code Control Sys?</Titulo>
+    <Relevancia>0.00190657800671</Relevancia>
+    <Texto>docs/CVS-RCS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="226">
+    <Titulo>  Using the Xinerama Extensions to MultiHead XFree86 V. 4.0+</Titulo>
+    <Relevancia>0.00185571428471</Relevancia>
+    <Texto>docs/Xinerama-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="84">
+    <Titulo>  Modem-Dialup-NT HOW-TO</Titulo>
+    <Relevancia>0.00185437837311</Relevancia>
+    <Texto>docs/Modem-Dialup-NT-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="183">
+    <Titulo>XFree86 Video Timings HOWTO</Titulo>
+    <Relevancia>0.0018515300909</Relevancia>
+    <Texto>docs/XFree86-Video-Timings-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="241">
+    <Titulo></Titulo>
+    <Relevancia>0.00182025146642</Relevancia>
+    <Texto>docs/HOWTO-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="178">
+    <Titulo>  Linux Astronomy HOWTO</Titulo>
+    <Relevancia>0.00181935701874</Relevancia>
+    <Texto>docs/Astronomy-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="13">
+    <Titulo>Smart Card HOWTO</Titulo>
+    <Relevancia>0.00169931900236</Relevancia>
+    <Texto>docs/Smart-Card-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="101">
+    <Titulo>  Building a Secure RedHat Apache Server HOWTO</Titulo>
+    <Relevancia>0.00168549292957</Relevancia>
+    <Texto>docs/SSL-RedHat-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="92">
+    <Titulo>  PHP HOW-TO</Titulo>
+    <Relevancia>0.00158471778046</Relevancia>
+    <Texto>docs/PHP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="82">
+    <Titulo>  HELLENIC HOWTO</Titulo>
+    <Relevancia>0.00157985883867</Relevancia>
+    <Texto>docs/Hellenic-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="106">
+    <Titulo>  CPU Design HOW-TO</Titulo>
+    <Relevancia>0.00157915151264</Relevancia>
+    <Texto>docs/CPU-Design-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="100">
+    <Titulo></Titulo>
+    <Relevancia>0.00156921323615</Relevancia>
+    <Texto>docs/Printing-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="231">
+    <Titulo>  Linux 2.4 Advanced Routing HOWTO</Titulo>
+    <Relevancia>0.00152178964112</Relevancia>
+    <Texto>docs/Adv-Routing-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="177">
+    <Titulo>  Linux Security HOWTO</Titulo>
+    <Relevancia>0.00149007066986</Relevancia>
+    <Texto>docs/Security-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="238">
+    <Titulo></Titulo>
+    <Relevancia>0.00147310038833</Relevancia>
+    <Texto>docs/User-Authentication-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="15">
+    <Titulo>  Glibc 2 HOWTO</Titulo>
+    <Relevancia>0.00139699957738</Relevancia>
+    <Texto>docs/Glibc2-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="125">
+    <Titulo>  Logical Volume Manager HOWTO</Titulo>
+    <Relevancia>0.00136253361072</Relevancia>
+    <Texto>docs/LVM-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="150">
+    <Titulo>  Sat (Satellite Technology) HOWTO</Titulo>
+    <Relevancia>0.00131034710644</Relevancia>
+    <Texto>docs/Sat-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="156">
+    <Titulo>  A mSQL and perl Web Server Mini HOWTO</Titulo>
+    <Relevancia>0.00127695899566</Relevancia>
+    <Texto>docs/WWW-mSQL-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="43">
+    <Titulo>XML-RPC HOWTO</Titulo>
+    <Relevancia>0.0012751690481</Relevancia>
+    <Texto>docs/XML-RPC-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="182">
+    <Titulo></Titulo>
+    <Relevancia>0.00119948657281</Relevancia>
+    <Texto>docs/MILO-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="160">
+    <Titulo>  Modem-HOWTO</Titulo>
+    <Relevancia>0.00118599778537</Relevancia>
+    <Texto>docs/Modem-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="239">
+    <Titulo>The Linux 2.4 SCSI subsystem HOWTO</Titulo>
+    <Relevancia>0.00115646551577</Relevancia>
+    <Texto>docs/SCSI-2.txt</Texto>
+  </Documento>
+  <Documento ID="171">
+    <Titulo>  The Linux Kernel HOWTO</Titulo>
+    <Relevancia>0.001122220045</Relevancia>
+    <Texto>docs/Kernel-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="11">
+    <Titulo>  Linux From Scratch</Titulo>
+    <Relevancia>0.0010992781768</Relevancia>
+    <Texto>docs/Linux-From-Scratch-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="158">
+    <Titulo>  ISP-Hookup-HOWTO</Titulo>
+    <Relevancia>0.0010890360925</Relevancia>
+    <Texto>docs/ISP-Hookup-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="69">
+    <Titulo>The Linux Bootdisk HOWTO</Titulo>
+    <Relevancia>0.00108017164378</Relevancia>
+    <Texto>docs/Bootdisk-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="201">
+    <Titulo>  Thin Client: New User Guide</Titulo>
+    <Relevancia>0.00106343695189</Relevancia>
+    <Texto>docs/Thinclient-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="166">
+    <Titulo>  The Linux keyboard and console HOWTO</Titulo>
+    <Relevancia>0.00102593866881</Relevancia>
+    <Texto>docs/Keyboard-and-Console-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="114">
+    <Titulo>  Firewall and Proxy Server HOWTO</Titulo>
+    <Relevancia>0.00101551515083</Relevancia>
+    <Texto>docs/Firewall-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="9">
+    <Titulo>  Linux IPCHAINS-HOWTO</Titulo>
+    <Relevancia>0.00101394325804</Relevancia>
+    <Texto>docs/IPCHAINS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="26">
+    <Titulo>  Building and Installing Software Packages for Linux</Titulo>
+    <Relevancia>0.000909545813745</Relevancia>
+    <Texto>docs/Software-Building-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="112">
+    <Titulo>DSL HOWTO for Linux</Titulo>
+    <Relevancia>0.000907878160997</Relevancia>
+    <Texto>docs/DSL-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="223">
+    <Titulo>Conexant/Rockwell modem HOWTO</Titulo>
+    <Relevancia>0.000874855469706</Relevancia>
+    <Texto>docs/Conexant+Rockwell-modem-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="78">
+    <Titulo>LDAP Implementation HOWTO</Titulo>
+    <Relevancia>0.000845717950331</Relevancia>
+    <Texto>docs/LDAP-Implementation-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="76">
+    <Titulo>The Unix Hardware Buyer HOWTO</Titulo>
+    <Relevancia>0.000843465896251</Relevancia>
+    <Texto>docs/Unix-Hardware-Buyer-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="202">
+    <Titulo>Linux + Windows HOWTO v0.1.0 1999-11-04</Titulo>
+    <Relevancia>0.000835016951655</Relevancia>
+    <Texto>docs/Linux+Windows-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="163">
+    <Titulo>  Linux SMP HOWTO</Titulo>
+    <Relevancia>0.000825244925005</Relevancia>
+    <Texto>docs/SMP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="147">
+    <Titulo>  The Linux Intranet Server HOWTO</Titulo>
+    <Relevancia>0.000820838577233</Relevancia>
+    <Texto>docs/Intranet-Server-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="134">
+    <Titulo>  VPN HOWTO</Titulo>
+    <Relevancia>0.000809181030474</Relevancia>
+    <Texto>docs/VPN-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="70">
+    <Titulo>  The X Window User HOWTO</Titulo>
+    <Relevancia>0.000791076677879</Relevancia>
+    <Texto>docs/XWindow-User-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="47">
+    <Titulo>  4mb Laptop HOWTO</Titulo>
+    <Relevancia>0.000779136129498</Relevancia>
+    <Texto>docs/4mb-Laptops.txt</Texto>
+  </Documento>
+  <Documento ID="124">
+    <Titulo>  Oracle Database HOWTO</Titulo>
+    <Relevancia>0.000769208567316</Relevancia>
+    <Texto>docs/Oracle-7-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="225">
+    <Titulo>  VoIP Howto</Titulo>
+    <Relevancia>0.00075442124171</Relevancia>
+    <Texto>docs/VoIP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="62">
+    <Titulo></Titulo>
+    <Relevancia>0.00075308235846</Relevancia>
+    <Texto>docs/Online-Troubleshooting-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="105">
+    <Titulo>Linux NETMEETING HOWTO</Titulo>
+    <Relevancia>0.000752999538533</Relevancia>
+    <Texto>docs/NetMeeting-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="199">
+    <Titulo>  Diald Howto</Titulo>
+    <Relevancia>0.000744427918996</Relevancia>
+    <Texto>docs/Diald-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="27">
+    <Titulo>  The Linux MP3-HOWTO</Titulo>
+    <Relevancia>0.00073567523084</Relevancia>
+    <Texto>docs/MP3-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="214">
+    <Titulo>  From Power Up To Bash Prompt</Titulo>
+    <Relevancia>0.00073421382915</Relevancia>
+    <Texto>docs/From-PowerUp-To-Bash-Prompt-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="8">
+    <Titulo>  The Linux UUCP HOWTO</Titulo>
+    <Relevancia>0.000705556746004</Relevancia>
+    <Texto>docs/UUCP-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="38">
+    <Titulo>  Slovenian HOWTO</Titulo>
+    <Relevancia>0.000688094768125</Relevancia>
+    <Texto>docs/Slovenian-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="157">
+    <Titulo>  Windows LAN server HOW-TO</Titulo>
+    <Relevancia>0.000663658236616</Relevancia>
+    <Texto>docs/Windows-LAN-Server-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="175">
+    <Titulo>  RPM-for-Unix HOW-TO</Titulo>
+    <Relevancia>0.000656473456737</Relevancia>
+    <Texto>docs/RPM-for-Unix-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="203">
+    <Titulo>  Linux VME Howto</Titulo>
+    <Relevancia>0.000647324557261</Relevancia>
+    <Texto>docs/VME-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="144">
+    <Titulo>  The Hebrew HOWTO</Titulo>
+    <Relevancia>0.000629339825643</Relevancia>
+    <Texto>docs/Hebrew-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="32">
+    <Titulo>  Linux Netstation  HOWTO</Titulo>
+    <Relevancia>0.000629066546329</Relevancia>
+    <Texto>docs/NC-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="23">
+    <Titulo>Software Release Practice HOWTO</Titulo>
+    <Relevancia>0.000578135626858</Relevancia>
+    <Texto>docs/Software-Release-Practice-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="61">
+    <Titulo>  Linux WWW HOWTO</Titulo>
+    <Relevancia>0.000536213184057</Relevancia>
+    <Texto>docs/WWW-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="229">
+    <Titulo>  Apache Overview HOWTO</Titulo>
+    <Relevancia>0.000523035474584</Relevancia>
+    <Texto>docs/Apache-Overview-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="146">
+    <Titulo>  DNS HOWTO</Titulo>
+    <Relevancia>0.000516668536285</Relevancia>
+    <Texto>docs/DNS-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="115">
+    <Titulo>  Linux 2.4.x Initialization for IA-32 HOWTO</Titulo>
+    <Relevancia>0.000510756318864</Relevancia>
+    <Texto>docs/Linux-Init-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="130">
+    <Titulo>  The Linux Tcl and Tk HOWTO</Titulo>
+    <Relevancia>0.000509236762349</Relevancia>
+    <Texto>docs/TclTk-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="207">
+    <Titulo>  The Linux 3Dfx HOWTO</Titulo>
+    <Relevancia>0.000467955608666</Relevancia>
+    <Texto>docs/3Dfx-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="127">
+    <Titulo></Titulo>
+    <Relevancia>0.00046184238499</Relevancia>
+    <Texto>docs/GCC-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="141">
+    <Titulo>  Vim Color Editor HOW-TO (Vi Improved with syntax color high?</Titulo>
+    <Relevancia>0.000448950776536</Relevancia>
+    <Texto>docs/Vim-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="77">
+    <Titulo>  The Linux BootPrompt-HowTo</Titulo>
+    <Relevancia>0.000448784560963</Relevancia>
+    <Texto>docs/BootPrompt-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="55">
+    <Titulo>  Linux User Group HOWTO</Titulo>
+    <Relevancia>0.000421372485457</Relevancia>
+    <Texto>docs/User-Group-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="4">
+    <Titulo>Bash Prompt HOWTO</Titulo>
+    <Relevancia>0.000419435751578</Relevancia>
+    <Texto>docs/Bash-Prompt-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="50">
+    <Titulo>  Linux Quake HOWTO</Titulo>
+    <Relevancia>0.00040314713853</Relevancia>
+    <Texto>docs/Quake-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="235">
+    <Titulo>  Antares-RAID-sparcLinux-HOWTO</Titulo>
+    <Relevancia>0.000381844902101</Relevancia>
+    <Texto>docs/Antares-RAID-sparcLinux-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="14">
+    <Titulo>Linux on the Sun JavaStation NC HOWTO</Titulo>
+    <Relevancia>0.000355633258139</Relevancia>
+    <Texto>docs/JavaStation-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="233">
+    <Titulo>  Polish HOWTO</Titulo>
+    <Relevancia>0.000326632841422</Relevancia>
+    <Texto>docs/Polish-HOWTO.txt</Texto>
+  </Documento>
+  <Documento ID="89">
+    <Titulo>  Linux IP Masquerade HOWTO</Titulo>
+    <Relevancia>0.000313687007095</Relevancia>
+    <Texto>docs/IP-Masquerade-HOWTO.txt</Texto>
+  </Documento>
+</Resultado>

@@ -1,0 +1,6 @@
+SARI
+
+Information retrieval system built over the information retrieval classic models: vectorial, boolean, probabilistic, and extended boolean.
+It has been implemented in the Python programming language, using the MySQL database, and the re, lxml and Tkinter libraries.
+The system accepts new documents composed by a title, an univoc identifier and the document's body, which are analyzed and indexed in a documental database. Since the document's title is not an univoc identifier, more than one document may have the same title. The system makes use of a list of empty words (stop list) which are considered to be generic or non-domain relevant, so they are not indexed. The system's query language consists on a list of terms which are paired to weights. The system enables the input of feedback from the user, allowing her to search documents similar to another document. The system's response is generated on the screen and in a XML file, displaying the order number, title, identifier and percentual relevance regarding each file retrieved by the current query. The system's UI allow the user to open and visualize the documents indexed in the system's documental database.
+
